@@ -1,0 +1,9 @@
+﻿{
+  //iot hub
+  "deviceId": "CiotolaCibo",
+  "deviceKey": "7sDttn7W9u45ZSwKEdHM+j3U7YyMMY5zCO2tGKQlnfk=",
+  "trasportType": "Mqtt_WebSocket_Only",
+  "hostName": "DevT.azure-devices.net",
+
+
+}
